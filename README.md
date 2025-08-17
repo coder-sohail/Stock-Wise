@@ -1,2 +1,5 @@
 # Stock-Wise
-A project created for learning 
+website link : https://stock-wise2.netlify.app/
+
+still working on the project 
+this is just a basic layout 
